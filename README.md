@@ -16,18 +16,6 @@ A simple desktop calculator built with Python and CustomTkinter.
 - Python 3.10 or newer
 - Windows, macOS or Linux with Tk support
 
-## Installation
-
-```bash
-python -m pip install -r requirements.txt
-```
-
-## Run
-
-```bash
-python main.py
-```
-
 ## Roadmap
 
 - [ ] Scientific mode

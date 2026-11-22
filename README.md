@@ -2,7 +2,7 @@
 
 A modern desktop calculator for Windows featuring Standard and Scientific modes.
 
-**Current Version: 2.0.0**
+**Current Version: 2.0**
 
 Easy Calculator is a desktop application built with Python and PySide6.
 It provides an intuitive interface for everyday calculations and advanced
